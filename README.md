@@ -20,7 +20,7 @@
 
 ### 1. Клониране на хранилището
 ```sh
-git clone https://github.com/D1DY/DataMiningProject.git
+git clone https://github.com/D1DY/DataMining
 cd DataMiningProject
 ```
 
